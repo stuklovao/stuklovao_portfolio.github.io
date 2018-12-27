@@ -7,7 +7,8 @@
 5. [Модули](https://github.com/herzenuni/sem5-2016-packages-stuklovao)
 6. [Встроенные коллекции](https://github.com/python-advance/sem5-collections-stuklovao)
 7. [Two sum](https://github.com/python-advance/sem4-2016-two-sum-stuklovao)
-8. [Презентация]()
+8. [Презентация 1](https://slides.com/molpik/deck-3/review#/)
+9. [Презентация 2](https://slides.com/molpik/deck-2/#/)
 
 
 
